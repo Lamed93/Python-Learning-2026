@@ -1,0 +1,28 @@
+Python - Anotações de Gabriel Brum, em 31.07.2026
+
+
+Aprendizagem
+
+Exercícios: https://exercicios.dunossauro.com/01_estrutura_sequencial/
+
+Diferenciais
+
+01. O comando print imprime na tela.
+
+02. O comando input guarda um valor.
+
+03. Para guardar um valor em uma variável, basta declarar a variável e depois específicar o tipo dela.
+
+04. Com float é o mesmo do 03.
+
+05. Para concatenar um float e string, use o f"{var_float}string" .
+
+06.Foi concatenada uma variável de float com string no f"{var_float}{var_string}"
+
+07. Se parece com o 06.
+
+08. Inclusão de texo antes das variáveis f"texto{var_float}{var_string}"
+
+09. O f-string, fica assim: f"{var:.2f}C°" . Isso para colocar apenas dois zeros depois do float.
+
+Atualizado em 12.09.2026
